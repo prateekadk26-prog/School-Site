@@ -7,8 +7,7 @@
 ## School site is a clean and modern look site that mainly focused on the education and to showcase the features and the facilities provided by the school. This site include all the necessary sections for the complete information and interaction between school commitee and students, parents or visitors. 
 
 # Why i created this site
-## project goal: I want to improve myself on using html, css and js language and make a new project for my self knowledge. Also i am so amazed how various features work , how are they created.
-Time duration: It take about 26 to 27 hours
+## project goal: I want to improve myself on using html, css and js language and make a new project for my self knowledge. Also i am so amazed how various features work , how are they created. Time duration: It take about 26 to 27 hours. i was so locked in while i was making this project. thats why i forgot to commit for a while. Sorry for my fault , i will ensure not to repeat this mistake in further days:( :( :( :( :( :( :(
 
 # Tech Stack
 - HTML5
