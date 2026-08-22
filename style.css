@@ -1036,7 +1036,7 @@ h3 {
     align-items: center;
     flex-direction: column;
     position: relative;
-    right: 50px;
+    right: 90px;
   }
   .circles:nth-child(2) {
     position: relative;
@@ -1048,16 +1048,14 @@ h3 {
     align-items: center;
     flex-direction: column;
     position: relative;
-    top: -380px;
-    left: 50px;
+    top: -350px;
+    left: 20px;
   }
   .step p {
     display: none;
   }
  .line{
-  position: relative;
-top: 150px;
-left: 50px;
+display: none;
  }
 }
 
@@ -1176,7 +1174,7 @@ left: 50px;
     padding: 10px 10px;
   }
   .form {
-    padding: 30px;
+    padding: 90px auto;
   }
   .right h2 {
     text-align: center;
@@ -1517,10 +1515,7 @@ p {
     text-align: center;
     position: relative;
   }
-  .line {
-    position: relative;
-    top: -50px;
-  }
+  
   .copy_right {
     position: relative;
     top: -45px;
